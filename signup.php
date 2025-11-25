@@ -201,7 +201,7 @@ background:#e6f0ff;
     <p>Already have an account? <a href="login.php">Login</a></p>
 </form>
 <div class="footer">
-    Designed & Developed by <b>Nishu kaur</b><br>
+    Designed & Developed by <b>Aslam</b><br>
     © <?= date('Y') ?> Student Registration System
 </div>
 </body>

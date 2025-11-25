@@ -102,7 +102,7 @@ h2 {
 <?php endwhile; ?>
 </div>
 <div class="footer">
-    Designed & Developed by <b>Nishu</b><br>
+    Designed & Developed by <b>Aslam</b><br>
     © <?= date('Y') ?> Student Registration System
 </div>
 </body>

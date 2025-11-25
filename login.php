@@ -121,7 +121,7 @@ body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: 
     </div>
 </div>
 <div class="footer">
-    Designed & Developed by <b>Nishu kaur</b><br>
+    Designed & Developed by <b>Aslam</b><br>
     © <?= date('Y') ?> Student Registration System
 </div>
 </body>

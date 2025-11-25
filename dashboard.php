@@ -192,7 +192,7 @@ td a:hover { text-decoration: underline; }
     </table>
 </div>
 <div class="footer">
-    Designed & Developed by <b>Nishu kaur</b><br>
+    Designed & Developed by <b>Aslam kaur</b><br>
     © <?= date('Y') ?> Student Registration System
 </div>
 </body>
