@@ -123,7 +123,7 @@ tr:hover {
 </table>
 </div>
 <div class="footer">
-    Designed & Developed by <b>Aslam kaur</b><br>
+    Designed & Developed by <b>ASLAM</b><br>
     © <?= date('Y') ?> Student Registration System
 </div>
 </body>

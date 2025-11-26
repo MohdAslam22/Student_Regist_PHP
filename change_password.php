@@ -78,7 +78,7 @@ if(isset($_POST['reset'])){
 </div>
 
 <div class="footer">
-    Designed & Developed by <b>Aslam</b><br>
+    Designed & Developed by <b>ASLAM</b><br>
     © <?= date('Y') ?> Student Registration System
 </div>
 </body>
